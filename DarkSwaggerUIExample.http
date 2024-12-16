@@ -1,0 +1,6 @@
+@DarkSwaggerUIExample_HostAddress = http://localhost:5181
+
+GET {{DarkSwaggerUIExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
